@@ -1,12 +1,5 @@
-var factor="yuga"
-var fplayer="riznee"
-var fmovie="kushi"
-
-function favourite()
+function area(length,breath)
 {
-    console.log("fav actor:"+factor)
-    console.log("fav player:"+fplayer)
-    console.log("fav movie:"+fmovie)
+    console.log(length*breath)
 }
-
-favourite()
+area(10,20)
