@@ -1,5 +1,6 @@
-function area(length,breath)
+function myname()
 {
-    console.log("area is "+length*breath)
+    return "john"
 }
-area(10,20)
+var a=myname()
+console.log(a)
