@@ -1,2 +1,6 @@
-console.log(false && false && true)
-console.log(false || false || true)
+var color ="red"
+
+if(color == "red")
+    {
+        console.log("stop")
+    }
