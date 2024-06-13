@@ -1,6 +1,6 @@
-var color ="red"
+var score = 40
 
-if(color == "red")
+if(70<50)
     {
-        console.log("stop")
+        console.log("you need to improve")
     }
