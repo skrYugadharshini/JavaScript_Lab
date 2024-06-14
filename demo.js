@@ -1156,3 +1156,14 @@
     <head> 
         height: 100vh
     </head>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="x-UA-Comaptible" cpntent="IE-edge">
+        <meta name="viewport" content="initial-scale=1.0">
+        </meta>
+        
+        </meta>
+        </meta>
+    </head>
+</html>
